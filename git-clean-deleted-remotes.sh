@@ -9,4 +9,3 @@ git fetch --prune
 git tag | xargs git tag --delete
 # Then fetch them again.
 git fetch --tags
-

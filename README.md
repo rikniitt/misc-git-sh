@@ -1,2 +1,1 @@
-# Miscellaneous git cli script / helpers.
-
+# Miscellaneous git command line scripts.
